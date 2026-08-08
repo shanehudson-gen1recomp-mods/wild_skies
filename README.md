@@ -10,5 +10,6 @@ Source code and issues live in the [mods monorepo](https://github.com/shanehudso
 
 ## All mods in this family
 
+- [Dev Hook Inspector](https://github.com/shanehudson-gen1recomp-mods/dev-hook-inspector) (`dev-hook-inspector`)
 - [Free Fly](https://github.com/shanehudson-gen1recomp-mods/free_fly) (`free_fly`)
 - **Wild Skies** (`wild_skies`, this repo)
