@@ -4,7 +4,7 @@ Installable releases of the **Wild Skies** mod for [gen1recomp](https://github.c
 
 Grab the newest `.zip` from [Releases](https://github.com/shanehudson-gen1recomp-mods/wild_skies/releases) and install it in-game: **MODS > Import mod .zip**. Installed copies get update checks through the launcher automatically.
 
-Source code and issues live in the [mods monorepo](https://github.com/shanehudson-gen1recomp-mods/gen1recomp-mods); this repo only hosts releases.
+Source code and issues live in the [mods monorepo](https://github.com/shanehudson-gen1recomp-mods/monorepo); this repo only hosts releases.
 
 ## All mods in this family
 
