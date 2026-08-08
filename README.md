@@ -2,6 +2,8 @@
 
 Installable releases of the **Wild Skies** mod for [gen1recomp](https://github.com/bryanthaboi/gen1recomp).
 
+Ambient flying Pokémon from the local encounter table roam the sky in loose flocks, resting on streets and rooftops.
+
 ![Demo](https://raw.githubusercontent.com/shanehudson-gen1recomp-mods/monorepo/main/.github/wild_skies-demo.gif)
 
 Grab the newest `.zip` from [Releases](https://github.com/shanehudson-gen1recomp-mods/wild_skies/releases) and install it in-game: **MODS > Import mod .zip**. Installed copies get update checks through the launcher automatically.
@@ -10,6 +12,6 @@ Source code and issues live in the [mods monorepo](https://github.com/shanehudso
 
 ## All mods in this family
 
-- [Dev Hook Inspector](https://github.com/shanehudson-gen1recomp-mods/dev-hook-inspector) (`dev-hook-inspector`)
-- [Free Fly](https://github.com/shanehudson-gen1recomp-mods/free_fly) (`free_fly`)
-- **Wild Skies** (`wild_skies`, this repo)
+- [Dev Hook Inspector](https://github.com/shanehudson-gen1recomp-mods/dev-hook-inspector) (`dev-hook-inspector`): Developer tool: a HOOKS entry on the START menu lists every installed mod's public exports and events.
+- [Free Fly](https://github.com/shanehudson-gen1recomp-mods/free_fly) (`free_fly`): A party member that knows FLY can take off and free-roam over the overworld, then land anywhere walkable.
+- **Wild Skies** (`wild_skies`, this repo): Ambient flying Pokémon from the local encounter table roam the sky in loose flocks, resting on streets and rooftops.
