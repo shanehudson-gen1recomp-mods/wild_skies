@@ -1,4 +1,4 @@
-# wild_skies (release mirror)
+# wild_skies (Official mirror)
 
 Installable releases of the **Wild Skies** mod for [gen1recomp](https://github.com/bryanthaboi/gen1recomp).
 
