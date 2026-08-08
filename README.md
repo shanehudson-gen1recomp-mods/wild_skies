@@ -8,6 +8,5 @@ Source code and issues live in the [mods monorepo](https://github.com/shanehudso
 
 ## All mods in this family
 
-- [Double Battles](https://github.com/shanehudson-gen1recomp-mods/double_battles) (`double_battles`)
 - [Free Fly](https://github.com/shanehudson-gen1recomp-mods/free_fly) (`free_fly`)
 - **Wild Skies** (`wild_skies`, this repo)
