@@ -12,6 +12,7 @@ Source code and issues live in the [mods monorepo](https://github.com/shanehudso
 
 ## All mods in this family
 
-- [Dev Hook Inspector](https://github.com/shanehudson-gen1recomp-mods/dev-hook-inspector) (`dev-hook-inspector`): Developer tool: a HOOKS entry on the START menu lists every installed mod's public exports and events.
+- [Double Battles](https://github.com/shanehudson-gen1recomp-mods/double_battles) (`double_battles`): Wild and trainer double battles: 1v2, 2v2 and trainer pairs, in classic, wide and 3D.
 - [Free Fly](https://github.com/shanehudson-gen1recomp-mods/free_fly) (`free_fly`): A party member that knows FLY can take off and free-roam over the overworld, then land anywhere walkable.
 - **Wild Skies** (`wild_skies`, this repo): Ambient flying Pokémon from the local encounter table roam the sky in loose flocks, resting on streets and rooftops.
+- [Dev Hook Inspector](https://github.com/shanehudson-gen1recomp-mods/dev-hook-inspector) (`dev-hook-inspector`): Developer tool: a HOOKS entry on the START menu lists every installed mod's public exports and events.
